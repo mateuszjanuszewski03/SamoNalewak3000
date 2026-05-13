@@ -1,0 +1,30 @@
+# Atmel Studio / Visual Studio
+*.atsln
+*.componentinfo.xml
+Debug/
+Release/
+*.suo
+*.user
+*.userosscache
+*.sln.docview
+
+# Build artifacts
+*.o
+*.d
+*.elf
+*.hex
+*.map
+*.lss
+*.eep
+*.srec
+*.bin
+
+# Atmel Studio generated
+*.cproj.bak
+GeneratedMakefile
+config.mk
+
+# Windows
+Thumbs.db
+desktop.ini
+*.DS_Store
